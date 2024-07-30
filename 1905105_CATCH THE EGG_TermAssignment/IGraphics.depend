@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1603513259 source:c:\download\igraphics-master\igraphics-master\imain.cpp
+	"iGraphics.h"
+
+1563940332 c:\download\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 c:\download\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\download\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\download\igraphics-master\igraphics-master\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603632058 source:c:\download\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563940332 c:\download\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1608391210 source:c:\download\igraphics-master\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+	<MMSystem.h>
+	<Windows.h>
+
+1604205786 source:c:\download\igraphics-master\igraphics-master\sin graph drawing.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1604285373 source:c:\download\igraphics-master\igraphics-master\curves without thank you page.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1604251352 source:c:\download\igraphics-master\igraphics-master\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1604643939 source:c:\download\igraphics-master\igraphics-master\1905105_curves.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1608395589 source:c:\download\igraphics-master\igraphics-master\catch the egg on going.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+	<MMSystem.h>
+	<Windows.h>
+
+1608401303 source:c:\download\igraphics-master\1905105_catch the egg\catch the egg final_1905105.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+	<MMSystem.h>
+	<Windows.h>
+
+1563940332 c:\download\igraphics-master\1905105_catch the egg\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 c:\download\igraphics-master\1905105_catch the egg\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\download\igraphics-master\1905105_catch the egg\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\download\igraphics-master\1905105_catch the egg\opengl\include\gl.h
+
