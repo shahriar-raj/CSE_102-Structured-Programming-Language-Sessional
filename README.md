@@ -11,7 +11,7 @@ This repository contains all home and lab assignments for the CSE 102: Structure
 
 * Online-1 is about branching
 * Online-2 is about Loops
-* 
+* Online-3 is about 1D Array and Functions
 
 <i><b>Term Project With igraphics:</b></i>
 
