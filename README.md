@@ -12,6 +12,10 @@ This repository contains all home and lab assignments for the CSE 102: Structure
 * Online-1 is about branching
 * Online-2 is about Loops
 * Online-3 is about 1D Array and Functions
+* Online-4 is about Array, String and Recusions
+* Online-5 is about Pointers and Structures
+
+#### I did an assignment on igraphics too. That was about sine and cosine curves. You can change the wavelength, amplitude of the curve. ####
 
 <i><b>Term Project With igraphics:</b></i>
 
