@@ -1,36 +1,39 @@
 #include <stdio.h>
 #include <string.h>
 
-char s1[30],s2[30];
+char s1[30], s2[30];
 
-int sub(int a,int b)
+int sub(int i, int j)
 {
-    int i,j,p=0,count=0;
-    for(i=a-1;i>=0;i--){
-        for(j=b-1;j>=0;){
-            if(s1[i]==s2[j]){
-                    count++;
-                    break;
-            }
-            else
-                j--;
-        }
+    int cnt = 0;
+    // printf("%c %c\n", s1[i], s2[j]);
+    if (s2[j] == '\0')
+    {
+        return 1;
     }
-    if(count==b)
-        p= 1+ sub(a-1,b-1);
-    else
+    if (s1[i] == '\0')
+    {
         return 0;
-    return p;
+    }
+    if (s1[i] == s2[j])
+    {
+        cnt += sub(i + 1, j + 1);
+        cnt += sub(i + 1, j); // checks for further matchings
+    }
+    else
+    {
+        cnt += sub(i + 1, j);
+    }
+    return cnt;
 }
 
 int main()
 {
-    int m,n,s;
+    int i, j;
+    int cnt = 0;
     gets(s1);
     gets(s2);
-    m=strlen(s1);
-    n=strlen(s2);
-    s=sub(m,n);
-    printf("%d",s);
+    cnt = sub(0, 0);
+    printf("%d", cnt);
     return 0;
 }
