@@ -1,4 +1,5 @@
 #include <stdio.h>
+
  int main()
  {
      int a[20000]={0},n,p,i,j,k,max=0,c;
