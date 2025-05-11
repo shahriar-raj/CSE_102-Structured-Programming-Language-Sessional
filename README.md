@@ -9,10 +9,12 @@ This repository contains all home and lab assignments for the CSE 102: Structure
 
 <i><b>Onlines (Lab Assignments):</b></i>
 
-* <b>Online-1</b> is about branching and basic arithmetic <br>
-  In the Problem 1, we had to calculate the intersection point of two lines.<br>
-  In the Problem 2, we had to calculate given a point and a circle's radius and center, if the given point is on, inside or outside the circle.
-* Online-2 is about Loops
+* <b>Online-1</b> is about branching and basic arithmetic.<br>
+  In the <u>Problem 1</u>, we had to calculate the intersection point of two lines.<br>
+  In the <u>Problem 2</u>, we had to calculate given a point and a circle's radius and center, if the given point is on, inside or outside the circle.
+* Online-2 is about Loops. <br>
+  In the <u>Problem 1</u>, we had to print stars in a specific pattern. <br>
+  In the <u>Problem 2</u>, we calculated the LCM as new numbers got added without array.
 * Online-3 is about 1D Array and Functions
 * Online-4 is about Array, String and Recusions
 * Online-5 is about Pointers and Structures
