@@ -1,44 +1,67 @@
-# CSE_102-Structured-Programming-Language-Sessional
-This repository contains all home and lab assignments for the CSE 102: Structured Programming Language Sessional course, part of our Term-1, Level-1 curriculum. It applies theories from CSE 101 to problem-solving. We also learned igraphics (an OpenGL library) for animations, culminating in a term project.
+Here’s a refined and more polished version of your README with a touch of elegance:
 
+---
 
-<i><b>Offlines (Home Assignments):</b></i>
+# CSE 102: Structured Programming Language Sessional  
+This repository hosts all **home** and **lab assignments** for the **CSE 102: Structured Programming Language Sessional** course, a part of the **Term-1, Level-1** curriculum. The coursework builds upon the foundational theories from **CSE 101** and applies them to real-world problem-solving. Additionally, the course introduces **igraphics**, an OpenGL-based library, for creating animations, culminating in a term project.
 
-* Offline-1 is about 1D array
-* Offline-2 is about 2D arrays and string
+---
 
-<i><b>Onlines (Lab Assignments):</b></i>
+## **Assignments Overview**
 
-* ![Status](https://img.shields.io/badge/Online-1-brightgreen) is about branching and basic arithmetic.<br>
-  In the <u>Problem 1</u>, we had to calculate the intersection point of two lines.<br>
-  In the <u>Problem 2</u>, we had to calculate given a point and a circle's radius and center, if the given point is on, inside or outside the circle.
-* ![Status](https://img.shields.io/badge/Online-2-brightgreen) is about Loops. <br>
-  In the <u>Problem 1</u>, we had to print stars in a specific pattern. <br>
-  In the <u>Problem 2</u>, we calculated the LCM as new numbers got added without array.
-* ![Status](https://img.shields.io/badge/Online-3-brightgreen) is about 1D Array and Functions. <br>
-  In the Problem, we had to sort numbers according to the number of 1s in the binary representation. And to break the ties we used factor numbers.
-* ![Status](https://img.shields.io/badge/Online-4-brightgreen) is about Array, String and Recursions. <br>
-  In this proble, we determined if a substring is present and how many times.
-* ![Status](https://img.shields.io/badge/Online-5-brightgreen) is about Pointers and Structures. <br>
-  In the Problem 1, we used a complex number structure for multiplying and dividing complex numbers. <br>
-  In the Problem 2, we used pointers and concatenate two strings. But without string functions.
+### **Offlines (Home Assignments)**
+1. **Offline-1**: Focuses on **1D Arrays**.  
+2. **Offline-2**: Explores **2D Arrays** and **Strings**.
 
-#### I did an assignment on igraphics too. That was about sine and cosine curves. You can change the wavelength, amplitude of the curve. ####
+### **Onlines (Lab Assignments)**  
+Each lab assignment delves into key concepts of structured programming:  
 
-<i><b>Term Project With igraphics:</b></i>
+1. **![Status](https://img.shields.io/badge/Online-1-brightgreen)**: *Branching and Basic Arithmetic*  
+   - **Problem 1**: Determining the intersection point of two lines.  
+   - **Problem 2**: Evaluating whether a given point lies *on*, *inside*, or *outside* a circle based on its radius and center.  
 
-"Catch the Egg" is an engaging and interactive game developed as part of the CSE 102: Structured Programming Language Sessional course during Term-1, Level-1. This project leverages the igraphics library, an OpenGL-based graphics tool designed to help students learn and implement graphical programming concepts.
+2. **![Status](https://img.shields.io/badge/Online-2-brightgreen)**: *Loops*  
+   - **Problem 1**: Printing specific star patterns.  
+   - **Problem 2**: Calculating the **LCM** dynamically as new numbers are added (without arrays).  
 
-In "Catch the Egg," players control a basket positioned at the bottom of the screen. Eggs fall from the top at varying speeds, and the objective is to catch as many eggs as possible without letting them hit the ground. The game becomes progressively challenging as the falling speed of the eggs increases, testing the player's reflexes and coordination.
-Features of "Catch the Egg":
+3. **![Status](https://img.shields.io/badge/Online-3-brightgreen)**: *1D Arrays and Functions*  
+   - Sorting numbers based on the number of `1s` in their binary representation, with ties resolved using factor numbers.  
 
-    Graphics and Animation: Utilizes the igraphics library to create smooth animations and visually appealing graphics.
-    User Interaction: Players can move the basket left and right using keyboard inputs to catch the falling eggs.
-    Score Tracking: The game keeps track of the player's score, increasing with each egg caught.
-    Increasing Difficulty: The game's difficulty ramps up as the speed and frequency of falling eggs increase over time.
+4. **![Status](https://img.shields.io/badge/Online-4-brightgreen)**: *Array, Strings, and Recursion*  
+   - Identifying the presence and frequency of a substring within a given string.  
 
-About igraphics:
+5. **![Status](https://img.shields.io/badge/Online-5-brightgreen)**: *Pointers and Structures*  
+   - **Problem 1**: Implementing a structure to multiply and divide complex numbers.  
+   - **Problem 2**: Concatenating two strings using pointers (without built-in string functions).  
 
-igraphics is a simple and powerful graphics library built on top of OpenGL, specifically designed for educational purposes. It provides an easy-to-use interface for creating graphical applications, making it ideal for beginners and students learning computer graphics and animation. With igraphics, students can quickly create 2D graphics, handle user inputs, and develop interactive applications, allowing them to apply theoretical programming concepts in a fun and practical way.
+---
 
-This project not only reinforces programming skills but also introduces students to the basics of game development and graphical programming, providing a well-rounded learning experience.
+## **Special Projects**
+
+### **Assignment with igraphics**
+A unique assignment involving **sine** and **cosine curves**, where users can dynamically adjust the **wavelength** and **amplitude** of the curves.  
+
+---
+
+### **Term Project: "Catch the Egg"**
+
+**"Catch the Egg"** is an engaging and interactive game developed as the capstone project for this course. It showcases the use of **igraphics** for graphical programming and introduces students to the basics of game development.  
+
+#### **Key Features:**
+- **Graphics and Animation**: Smooth animations and visually appealing graphics powered by the **igraphics** library.  
+- **User Interaction**: Players control a basket using keyboard inputs to catch falling eggs.  
+- **Score Tracking**: The game tracks the player's score, which increases with each successful catch.  
+- **Increasing Difficulty**: The speed and frequency of falling eggs increase progressively, adding to the challenge.  
+
+---
+
+## **About igraphics**  
+**igraphics** is a lightweight and educational graphics library built on **OpenGL**. It provides an intuitive interface for creating graphical applications, making it an excellent tool for beginners.  
+
+---
+
+This project not only enhances programming skills but also introduces students to the fundamentals of **game development** and **graphical programming**, offering a comprehensive and enjoyable learning experience.
+
+--- 
+
+Feel free to explore the repository and dive into the code to see how these concepts were implemented!
