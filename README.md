@@ -15,8 +15,10 @@ This repository contains all home and lab assignments for the CSE 102: Structure
 * ![Status](https://img.shields.io/badge/Online-2-brightgreen) is about Loops. <br>
   In the <u>Problem 1</u>, we had to print stars in a specific pattern. <br>
   In the <u>Problem 2</u>, we calculated the LCM as new numbers got added without array.
-* Online-3 is about 1D Array and Functions
-* Online-4 is about Array, String and Recusions
+* ![Status](https://img.shields.io/badge/Online-3-brightgreen) is about 1D Array and Functions. <br>
+  In the Problem, we had to sort numbers according to the number of 1s in the binary representation. And to break the ties we used factor numbers.
+* ![Status](https://img.shields.io/badge/Online-4-brightgreen) is about Array, String and Recursions. <br>
+  In this proble, we determined if a substring is present and how many times.
 * Online-5 is about Pointers and Structures
 
 #### I did an assignment on igraphics too. That was about sine and cosine curves. You can change the wavelength, amplitude of the curve. ####
