@@ -19,7 +19,9 @@ This repository contains all home and lab assignments for the CSE 102: Structure
   In the Problem, we had to sort numbers according to the number of 1s in the binary representation. And to break the ties we used factor numbers.
 * ![Status](https://img.shields.io/badge/Online-4-brightgreen) is about Array, String and Recursions. <br>
   In this proble, we determined if a substring is present and how many times.
-* Online-5 is about Pointers and Structures
+* ![Status](https://img.shields.io/badge/Online-5-brightgreen) is about Pointers and Structures. <br>
+  In the Problem 1, we used a complex number structure for multiplying and dividing complex numbers. <br>
+  In the Problem 2, we used pointers and concatenate two strings. But without string functions.
 
 #### I did an assignment on igraphics too. That was about sine and cosine curves. You can change the wavelength, amplitude of the curve. ####
 
