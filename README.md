@@ -1,7 +1,3 @@
-Here’s a refined and more polished version of your README with a touch of elegance:
-
----
-
 # CSE 102: Structured Programming Language Sessional  
 This repository hosts all **home** and **lab assignments** for the **CSE 102: Structured Programming Language Sessional** course, a part of the **Term-1, Level-1** curriculum. The coursework builds upon the foundational theories from **CSE 101** and applies them to real-world problem-solving. Additionally, the course introduces **igraphics**, an OpenGL-based library, for creating animations, culminating in a term project.
 
