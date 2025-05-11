@@ -9,7 +9,7 @@ This repository contains all home and lab assignments for the CSE 102: Structure
 
 <i><b>Onlines (Lab Assignments):</b></i>
 
-* ![Status](https://img.shields.io/badge/Status-Active-brightgreen)<b>Online-1</b> is about branching and basic arithmetic.<br>
+* ![Status](https://img.shields.io/badge/Online-1-brightgreen)<b>Online-1</b> is about branching and basic arithmetic.<br>
   In the <u>Problem 1</u>, we had to calculate the intersection point of two lines.<br>
   In the <u>Problem 2</u>, we had to calculate given a point and a circle's radius and center, if the given point is on, inside or outside the circle.
 * ![Status](https://img.shields.io/badge/Status-Active-brightgreen)Online-2 is about Loops. <br>
